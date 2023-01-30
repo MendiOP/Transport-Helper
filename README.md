@@ -4,4 +4,4 @@ This is a auto/cab/taxi booking platform. Any user can join and book a taxi for 
 They can also use it as a courier system.
 
 Frontend : Java, Swing
-Backend : MySQL Fatabase
+Backend : MySQL Database
